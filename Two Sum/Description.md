@@ -7,6 +7,7 @@ You may assume that each input would have **exactly one solution**, and you may 
 
 You can return the answer in any order.
 
+[Two Sum - LeetCode](https://leetcode.com/problems/two-sum/)
 ---
 
 ### Example 1:
